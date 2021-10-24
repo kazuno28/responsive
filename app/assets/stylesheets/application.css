@@ -45,4 +45,25 @@ footer{
     margin-left: 5%;
     margin-bottom: 20px;
   }
+
+  .step-img1 {
+  height: 200px;
+  background-image: url(flow01.png);
+  background-position: bottom;
+  background-size: cover;
+}
+
+.step-img2 {
+  height: 200px;
+  background-image: url(flow02.png);
+  background-position: bottom;
+  background-size: cover;
+}
+
+.step-img3 {
+  height: 200px;
+  background-image: url(flow03.png);
+  background-position: bottom;
+  background-size: cover;
+}
 }
